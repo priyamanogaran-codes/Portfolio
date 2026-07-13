@@ -52,21 +52,25 @@ portfolio/
 
 ## 📸 Screenshots
 
-### 🏠 Home Page
+## 📸 Home
 
-(Add screenshot here later)
+![Home](screenshots/home.png)
 
-### 👩 About
+## 👩 About
 
-(Add screenshot here later)
+![About](screenshots/about.png)
 
-### 💻 Projects
+## 🛠 Skills
 
-(Add screenshot here later)
+![Skills](screenshots/skills.png)
 
-### 📞 Contact
+## 💻 Projects
 
-(Add screenshot here later)
+![Projects](screenshots/projects.png)
+
+## 📞 Contact
+
+![Contact](screenshots/contact.png)
 
 ---
 
